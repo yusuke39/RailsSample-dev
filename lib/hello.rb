@@ -1,4 +1,4 @@
-class hello
+class Hello
   def message
     "hello"
   end
